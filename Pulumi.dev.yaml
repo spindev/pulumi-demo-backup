@@ -1,0 +1,5 @@
+config:
+  azure-native:location: westeurope
+  pulumi-demo-backup:errorDocument: error.html
+  pulumi-demo-backup:indexDocument: index.html
+  pulumi-demo-backup:path: ./www
